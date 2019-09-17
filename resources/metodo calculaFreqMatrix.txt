@@ -1,0 +1,12 @@
+/** Método calculaFreqMatrix
+* Recibe una lista con los N/2 individuos con mejor fitness de la población.
+* Genera un archivo de texto con la matriz de frecuencias calculada.
+*/
+
+public void calculaFreqMatrix(LinkedList<Individuo> selected) {
+        for (Individuo ind : selected){
+            for (int i = 0; i < freqMatrix.length; i++)
+                    this.freqMatrix[i][ind.getPositions().get(i)]++;
+        }// for ind
+        SaveFile.escribirFreqMatrix(getFreqMatrix(), "Matriz de Frecuencias");
+    }// fin calculaFreqMatrix

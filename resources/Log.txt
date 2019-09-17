@@ -1,0 +1,7 @@
+09:30:39.468619800: Inicia cargar de datos...
+09:30:39.483615800: Carga de Vehiculos completa
+09:30:39.488612700: Carga de Maquinas completa
+09:30:39.492612400: Carga de Limite de Pintura completa
+09:30:39.496611300: Carga de Objetivos completa
+09:30:39.500609600: Carga de datos finalizo satisfactoriamente
+09:30:40.313497900: Eliminacion de resultados anterioes finalizo satisfactoriamente.

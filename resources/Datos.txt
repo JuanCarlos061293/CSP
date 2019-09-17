@@ -1,0 +1,9 @@
+Maquinas con prioridad Alta: 2
+Maquinas con prioridad Baja: 3
+Vehiculos no secuenciables: 7
+Vehiculos a secuenciar: 25
+Configuraciones para las maquinas con Alta prioridad: 4; 25
+Configuraciones para las maquinas con Baja prioridad: 4; 25
+Colores de pintura para todos los vehiculos: 4; 25
+Configuraciones combinando las maquinas con prioridad Alta y Baja: 6; 25
+Configuraciones combinando las maquinas con prioridad Alta, Baja y color: 18; 25
